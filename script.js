@@ -1,7 +1,9 @@
 const jokeEl = document.querySelector('#js-joke');
 const btn = document.querySelector('#js-btn');
 
-// generateJoke()// if refresh => a new joke
+
+// if refresh => a new joke
+ generateJoke()
 
 
 //USING .THEN()
